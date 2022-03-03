@@ -34,3 +34,10 @@ a, a:hover {
 .navbar {
     background: #901CAD;
 }
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+}
